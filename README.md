@@ -1,9 +1,8 @@
 # SimpleToDo
 This app allows the user to input strings that can then be added and removed from the list displayed on the screen.
-# Project 1 - *Name of App Here*
+# Project 1 - ToDo!
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
-
+**Name of your app** ToDo!
 Submitted by: Garry Archbold
 
 Time spent: 2.5 hr. 
@@ -18,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [X] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
