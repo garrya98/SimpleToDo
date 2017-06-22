@@ -4,17 +4,17 @@ This app allows the user to input strings that can then be added and removed fro
 
 **Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: Garry Archbold
 
-Time spent: **X** hours spent in total
+Time spent: 2.5 hr. 
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-* [ ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [X] User can **view a list of todo items**
+* [X] User can **successfully add and remove items** from the todo list
+* [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **optional** features are implemented:
 
